@@ -35,9 +35,9 @@
 <h3 align="center">🍬 今日份可爱</h3>
 <div align="center">
   <h4>🐈 随机小猫</h4>
-  <img src="https://cataas.com/cat?width=300&height=200" 
-       width="300" height="200" 
-       alt="random cat" />
+  <!-- RANDOM-CAT-URL:START -->
+  <img src="https://cataas.com/cat?width=300&height=200&v=1712345678" width="300" height="200" alt="random cat" />
+  <!-- RANDOM-CAT-URL:END -->
 </div>
 
 <!-- ============ 页脚彩蛋 ============ -->
