@@ -9,23 +9,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="cute cat coding" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=lag1c&label=🐾%20Profile%20Views&color=FFB6C1&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/lag1c?style=flat-square&label=🌸%20Followers&color=FFC0CB" alt="followers" />
-</div>
-
-<!-- ============ GitHub 统计 ============ -->
-<h3 align="center">🌸 GitHub 糖果统计</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lag1c&show_icons=true&count_private=true&include_all_commits=true&title_color=FF69B4&text_color=5A5A5A&icon_color=FF85C2&bg_color=30,FFE4F0,FFD6E8&border_color=FFB6C1&border_radius=16&custom_title=%F0%9F%8C%9F%20GitHub%20Candy%20Stats" height="170" alt="github stats" />
-  
-  <img src="https://streak-stats.demolab.com?user=lag1c&theme=radical&hide_border=false&date_format=%5BY.%5Dn.j&background=FFE4F0&stroke=FFB6C1&ring=FF85C2&fire=FFB6C1&currStreakLabel=FF69B4&sideNums=FF69B4&currStreakNum=FF85C2&sideLabels=FF69B4&dates=888888" height="170" alt="streak stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lag1c&layout=compact&langs_count=8&title_color=FF69B4&text_color=5A5A5A&icon_color=FF85C2&bg_color=30,FFE4F0,FFD6E8&border_color=FFB6C1&border_radius=16&custom_title=%F0%9F%8D%A1%20Top%20Languages" height="170" alt="top languages" />
-</div>
-
 <!-- ============ 贪吃蛇贡献图 ============ -->
 <h3 align="center">🐍 贪吃蛇正在吃我的贡献图</h3>
 <div align="center">
@@ -35,23 +18,20 @@
 <!-- ============ 技术栈糖果墙 ============ -->
 <h3 align="center">🧁 技术栈糖果墙</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,tailwind,git,github,vscode,docker,linux&theme=light&perline=6" alt="skillicons" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,git,github,vscode,linux,java,cpp,cs,rust&theme=light&perline=6" alt="skillicons" />
   <br/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white" alt="python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="ts" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-</div>
-
-<!-- ============ 网易云音乐 ============ -->
-<h3 align="center">🎧 正在播放</h3>
-<div align="center">
-  <img src="https://netease-music-card.vercel.app/api?user_id=12387892505&type=recent&size=large&theme=light" 
-       alt="netease music card" width="340" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="cpp" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="rust" />
 </div>
 
 <!-- ============ 今日份可爱 ============ -->
