@@ -1,0 +1,70 @@
+name: Update Random Cat Image
+
+on:
+  schedule:
+    # 每小时更新一次，可按需修改
+    - cron: "0 * * * *"
+  workflow_dispatch:  # 允许手动触发
+
+permissions:
+  contents: write  # 允许推送更改
+
+jobs:
+  update-cat:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Update README with new cat URL
+        run: |
+          python - <<'PY'
+          import re
+          import time
+          import random
+
+          readme_path = 'README.md'
+          start_marker = '<!-- RANDOM-CAT-URL:START -->'
+          end_marker = '<!-- RANDOM-CAT-URL:END -->'
+
+          with open(readme_path, 'r', encoding='utf-8') as f:
+              content = f.read()
+
+          # 生成随机参数：时间戳 + 随机数，确保 URL 唯一
+          timestamp = int(time.time())
+          random_num = random.randint(100000, 999999)
+          new_src = f"https://cataas.com/cat?width=300&height=200&v={timestamp}-{random_num}"
+
+          # 构建新的图片标签
+          new_img = f'<img src="{new_src}" width="300" height="200" alt="random cat" />'
+
+          # 替换标记之间的内容
+          pattern = re.compile(
+              f'{re.escape(start_marker)}.*?{re.escape(end_marker)}',
+              re.DOTALL
+          )
+          new_block = f'{start_marker}\n  {new_img}\n  {end_marker}'
+          new_content = pattern.sub(new_block, content)
+
+          with open(readme_path, 'w', encoding='utf-8') as f:
+              f.write(new_content)
+
+          print(f'Updated cat URL to: {new_src}')
+          PY
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update random cat image [skip ci]"
+            git push
+          fi
