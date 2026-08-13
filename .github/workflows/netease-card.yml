@@ -15,4 +15,4 @@ jobs:
     steps:
       - name: Ping netease-music-card to refresh cache
         run: |
-          curl -s -o /dev/null "https://netease-music-card.vercel.app/api?user_id=YOUR_NETEASE_USER_ID&type=recent"
+          curl -s -o /dev/null "https://netease-music-card.vercel.app/api?user_id=12387892505&type=recent"
