@@ -33,18 +33,12 @@
 
 <!-- ============ 今日份可爱 ============ -->
 <h3 align="center">🍬 今日份可爱</h3>
-<table align="center">
-  <tr>
-    <td align="center" valign="top">
-      <h4>💬 每日一言</h4>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gradient" alt="daily quote" width="360" />
-    </td>
-    <td align="center" valign="top">
-      <h4>🐈 随机小猫</h4>
-      <img src="https://cataas.com/cat?width=300&height=200" width="300" height="200" alt="random cat" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h4>🐈 随机小猫</h4>
+  <img src="https://cataas.com/cat?width=300&height=200" 
+       width="300" height="200" 
+       alt="random cat" />
+</div>
 
 <!-- ============ 页脚彩蛋 ============ -->
 <div align="center">
