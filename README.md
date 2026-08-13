@@ -47,6 +47,14 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
 </div>
 
+<!-- ============ 网易云音乐 ============ -->
+<h3 align="center">🎧 正在播放</h3>
+<div align="center">
+  <!-- 将 YOUR_NETEASE_USER_ID 替换为你的网易云用户 ID -->
+  <img src="https://netease-music-card.vercel.app/api?user_id=YOUR_NETEASE_USER_ID&type=recent&size=large&theme=light" 
+       alt="netease music card" width="340" />
+</div>
+
 <!-- ============ 今日份可爱 ============ -->
 <h3 align="center">🍬 今日份可爱</h3>
 <table align="center">
