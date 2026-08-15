@@ -12,11 +12,11 @@
 <!-- ============ GitHub 统计 ============ -->
 <h3 align="center">🌸 GitHub 糖果统计</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&count_private=true&include_all_commits=true&title_color=FF69B4&text_color=5A5A5A&icon_color=FF85C2&bg_color=30,FFE4F0,FFD6E8&border_color=FFB6C1&border_radius=16&custom_title=%F0%9F%8C%9F%20GitHub%20Candy%20Stats" height="170" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lag1c&show_icons=true&count_private=true&include_all_commits=true&title_color=FF69B4&text_color=5A5A5A&icon_color=FF85C2&bg_color=30,FFE4F0,FFD6E8&border_color=FFB6C1&border_radius=16&custom_title=%F0%9F%8C%9F%20GitHub%20Candy%20Stats" height="170" alt="github stats" />
   
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=radical&hide_border=false&date_format=%5BY.%5Dn.j&background=FFE4F0&stroke=FFB6C1&ring=FF85C2&fire=FFB6C1&currStreakLabel=FF69B4&sideNums=FF69B4&currStreakNum=FF85C2&sideLabels=FF69B4&dates=888888" height="170" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=lag1c&theme=radical&hide_border=false&date_format=%5BY.%5Dn.j&background=FFE4F0&stroke=FFB6C1&ring=FF85C2&fire=FFB6C1&currStreakLabel=FF69B4&sideNums=FF69B4&currStreakNum=FF85C2&sideLabels=FF69B4&dates=888888" height="170" alt="streak stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=8&title_color=FF69B4&text_color=5A5A5A&icon_color=FF85C2&bg_color=30,FFE4F0,FFD6E8&border_color=FFB6C1&border_radius=16&custom_title=%F0%9F%8D%A1%20Top%20Languages" height="170" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lag1c&layout=compact&langs_count=8&title_color=FF69B4&text_color=5A5A5A&icon_color=FF85C2&bg_color=30,FFE4F0,FFD6E8&border_color=FFB6C1&border_radius=16&custom_title=%F0%9F%8D%A1%20Top%20Languages" height="170" alt="top languages" />
 </div>
 
 <!-- ============ 贪吃蛇贡献图 ============ -->
