@@ -9,6 +9,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="cute cat coding" />
+</div>
+
 <!-- ============ 贪吃蛇贡献图 ============ -->
 <h3 align="center">🐍 贪吃蛇正在吃我的贡献图</h3>
 <div align="center">
