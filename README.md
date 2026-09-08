@@ -40,7 +40,7 @@
 <div align="center">
   <h4>🐈 随机小猫</h4>
   <!-- RANDOM-CAT-URL:START -->
-  <img src="https://cataas.com/cat?width=300&height=200&v=1788879297-866207" width="300" height="200" alt="random cat" />
+  <img src="https://cataas.com/cat?width=300&height=200&v=1788891648-116059" width="300" height="200" alt="random cat" />
   <!-- RANDOM-CAT-URL:END -->
 </div>
 
